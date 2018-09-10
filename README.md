@@ -1,2 +1,2 @@
-# YOTA_Month_resources
-resources for YOTA_Month
+# YOTA Month resources
+resources for YOTA Month
